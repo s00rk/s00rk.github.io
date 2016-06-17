@@ -4,7 +4,7 @@ var callback = function(){
 		$(this).width(0);
 		if(newWidth < 180)
 		{
-			newWidth = '50%';
+			newWidth = '80%';
 		}
 	    $(this).animate({
 	        width: newWidth,

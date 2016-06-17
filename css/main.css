@@ -55,7 +55,7 @@ body{
 #text-header:after{
   width: 100%;
   height: 3px;
-  background: url(http://victorivera.com/img/line.png);
+  background: url(http://s00rk.github.io/img/line.png);
   margin-top: 15px;
   content: '';
   display: block;
@@ -264,10 +264,10 @@ body{
 #language-skills .skill .icons{
   width: 111px;
   height: 14px;
-  background: url('http://victorivera.com/img/star-grey.png') no-repeat;
+  background: url('http://s00rk.github.io/img/star-grey.png') no-repeat;
 }
 #language-skills .skill .icons-red{
-  background: url('http://victorivera.com/img/star-red.png') no-repeat;
+  background: url('http://s00rk.github.io/img/star-red.png') no-repeat;
 }
 .hobby{
   color: #fff;
